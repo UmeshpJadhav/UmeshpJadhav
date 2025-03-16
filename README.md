@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://dhrishp1.whyfied.me" style="text-decoration:none " target="_blank">Dhrish Parekh</a> <img
+<h1 align="center">Hi there, I'm <a href="https://dhrishp1.whyfied.me" style="text-decoration:none " target="_blank">Umesh Jadhav</a> <img
 src="images/codegif2U.gif" height="32" style="" /></h1>
 <br />
 
