@@ -21,15 +21,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 **Frequently used technologies:**
 
-<p>
-<img src="https://raw.githubusercontent.com/DhrishP/DhrishP/main/images/nextjs.png" height="40" style="vertical-align:down; margin:4px" alt="Nextjs">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/tailwind.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/typescript.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/drizzle.png"  height="40" style="vertical-align:down;margin:4px">
 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
 </p>
