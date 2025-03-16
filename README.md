@@ -39,18 +39,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 **Currently exploring:**
 
-<p align="center">  
-  <img src="https://skillicons.dev/icons?i=graphql,prisma,aws,kafka,postgres,redux,supabase" />
+<p>  
+  <img src="https://skillicons.dev/icons?i=prisma,aws,kafka,postgres,supabase,docker" />
 </p>
 
-**Also experienced with:**
-
-<p>
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/nodejs.svg" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/prisma.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/docker.png" height="40" style="vertical-align:down;margin-left:7px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/stripe-logo.png" height="40" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/langC.png" height="45" style="vertical-align:down;margin:4px">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/cf.svg" height="40" align="top">
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/hono.svg" height="32" valign="top" hspace="7">
-</p>
