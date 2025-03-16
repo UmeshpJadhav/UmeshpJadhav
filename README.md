@@ -23,7 +23,10 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,typescript,next" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis" />
 </p>
 
 
