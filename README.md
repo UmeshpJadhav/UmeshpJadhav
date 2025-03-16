@@ -30,6 +30,13 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/postgres.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/react.svg" height="40" style="vertical-align:down;margin:4px">
 <img src="https://github.com/DhrishP/DhrishP/blob/main/images/aws.svg" height="40" style="vertical-align:down;margin-left:7px">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
+</p>
+
+
+
+
 
 
 
