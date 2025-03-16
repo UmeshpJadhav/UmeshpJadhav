@@ -26,7 +26,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
   <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,typescript,next" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis,vercel" />
 </p>
 
 
