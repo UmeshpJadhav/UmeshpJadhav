@@ -26,7 +26,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
   <img src="https://skillicons.dev/icons?i=js,ts,mongodb,express,react,nodejs,typescript,next" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis,vercel,postman" />
 </p>
 
 
@@ -39,10 +39,8 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 
 **Currently exploring:**
 
-<p > 
-<img src="https://github.com/DhrishP/DhrishP/blob/main/images/py.svg" height="40" style="vertical-align:down;margin:4px">
-
-
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=graphql,prisma,aws,kafka,postgres,redux,supabase" />
 </p>
 
 **Also experienced with:**
