@@ -27,8 +27,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis,vercel,postman" />
-  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src=![image](https://github.com/user-attachments/assets/62ea1fb4-fda4-4ddc-a36c-d2bb830b876e)
-" alt="socket.io" height="40" /> </a>
+  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/d8PbgSUuiE3W7hkcPIC4B0wor9_-KBSKrgnNxHUWBfk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85Lzk2L1Nv/Y2tldC1pby5zdmcv/NTEycHgtU29ja2V0/LWlvLnN2Zy5wbmc" alt="socket.io" height="40" /> </a>
 </p>
 
 
