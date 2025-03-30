@@ -27,6 +27,7 @@ src="images/codegif2U.gif" height="32" style="" /></h1>
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,firebase,redis,vercel,postman" />
+  <a href="https://socket.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io" height="40" /> </a>
 </p>
 
 
