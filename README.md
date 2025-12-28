@@ -11,11 +11,7 @@
 
 ---
 
-## 📊 Activity Overview
-
-<p align="center">
-  <img src="./profile-summary-card-output/dark/0-main.svg" width="100%" />
-</p>
+>
 
 ---
 
