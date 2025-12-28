@@ -2,9 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/UmeshpJadhav"><img src="https://img.shields.io/badge/@UmeshpJadhav-000?style=flat-square&logo=github&logoColor=white" /></a>
-  
-  <a href="#"><img src="https://img.shields.io/badge/@side--projects-green?style=flat-square&logo=gitpod&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/@learning-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 <p align="center">
