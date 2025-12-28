@@ -10,9 +10,6 @@
   <b>Fullstack developer building cool things and always looking for learning opportunities!</b>
 </p>
 
-<p align="center">
-  <img src="https://github.com/DhrishP/DhrishP/blob/main/images/boatgif.gif" height="100" />
-</p>
 
 ---
 
