@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm <a href="" style="text-decoration:none" target="_blank">Umesh Jadhav</a> <img src="images/codegif2U.gif" height="32" /></h1>
 
 <p align="center">
-  <a href="https://github.com/UmeshpJadhav"><img src="https://img.shields.io/badge/@DhrishP-000?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/UmeshpJadhav"><img src="https://img.shields.io/badge/@UmeshpJadhav-000?style=flat-square&logo=github&logoColor=white" /></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/@side--projects-green?style=flat-square&logo=gitpod&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/@learning-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 </p>
